@@ -1,5 +1,5 @@
 # Server-Client-Tic-Tac-Toe
-A distributed implementation of a tic-tac-toe game using a server-client model
+A distributed implementation of a tic-tac-toe game using a server-client model, created for CSCE 3600 at the University of North Texas.
 
 **Usage:**
 This tic-tac-toe game can be run either on a single machine or on different machines over the internet.
